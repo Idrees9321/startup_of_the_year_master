@@ -1,1 +1,3 @@
-# startup_of_the_year_master
+# startup-of-the-year
+Starter project!
+*visist https://zerotomastery.io/ for more*
